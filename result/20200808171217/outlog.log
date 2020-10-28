@@ -1,0 +1,9 @@
+2020-08-08 17:12:40,012-urllib3.connectionpool-DEBUG-Starting new HTTP connection (1): v5-dev-customer.faqrobot.net:80
+2020-08-08 17:12:40,012-urllib3.connectionpool-DEBUG-Starting new HTTP connection (1): v5-dev-customer.faqrobot.net:80
+2020-08-08 17:12:40,012-urllib3.connectionpool-DEBUG-Starting new HTTP connection (1): v5-dev-customer.faqrobot.net:80
+2020-08-08 17:12:40,109-urllib3.connectionpool-DEBUG-http://v5-dev-customer.faqrobot.net:80 "POST /admin/login HTTP/1.1" 302 0
+2020-08-08 17:12:40,109-urllib3.connectionpool-DEBUG-http://v5-dev-customer.faqrobot.net:80 "POST /admin/login HTTP/1.1" 302 0
+2020-08-08 17:12:40,109-urllib3.connectionpool-DEBUG-http://v5-dev-customer.faqrobot.net:80 "POST /admin/login HTTP/1.1" 302 0
+2020-08-08 17:12:40,165-urllib3.connectionpool-DEBUG-http://v5-dev-customer.faqrobot.net:80 "GET / HTTP/1.1" 200 555
+2020-08-08 17:12:40,165-urllib3.connectionpool-DEBUG-http://v5-dev-customer.faqrobot.net:80 "GET / HTTP/1.1" 200 555
+2020-08-08 17:12:40,165-urllib3.connectionpool-DEBUG-http://v5-dev-customer.faqrobot.net:80 "GET / HTTP/1.1" 200 555
